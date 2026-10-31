@@ -1,4 +1,4 @@
-#reflection questions 
+#reflection questions  
 #1.I was suprised about how I can access specific items using their positions in the lists using positive and negative indexing. I didn't expect the first item to be listed as 0, the second as 1, and so on. 
 #2.I've actually never had to use excel so I don't have an experience with that to talk about. However, maybe a time using a python list  could save time is when I need to organize information for a school project. I could store all the topics I need to research in one list and easily add or remove topics as I work instead of keeping track of them one by one.
 
